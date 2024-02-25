@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AerioJobin
 - 👀 I’m interested in Coding,Trading, Business,etc
-- 🌱 I’m currently learning C programming 
+- 🌱 I’m currently learning algorithimic trading using python
 - 💞️ I’m looking to collaborate on High Frequency Trading
 - 📫 How to reach me aeriojobin.business@gmail.com
 
