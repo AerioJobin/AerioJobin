@@ -1,93 +1,109 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Aerio%20Jobin&fontSize=75&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Aerio%20Jobin&fontSize=75&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;Quantitative+Trader;High-Frequency+Systems;FinTech+Innovator" alt="Typing SVG" />
+<h2 align="center">🚀 Electronics Engineer | Embedded Systems | Fintech Enthusiast</h2>
 
-  <p align="center">
-    <a href="mailto:aeriojobin.business@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/AerioJobin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://komarev.com/ghpvc/?username=AerioJobin&style=for-the-badge&color=00b4d8" alt="Profile Views" />
-  </p>
+<div align="center">
+  <a href="mailto:aeriojobin.business@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/AerioJobin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/aeriojobin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
 
-## 🛠️ System Overview
+## 💡 About Me
 
-```python
-class AerioJobin:
-    """
-    Architecting high-performance systems at the intersection 
-    of code and capital.
-    """
-    def __init__(self):
-        self.status = "Optimizing Alpha 📈"
-        self.core_stack = ["Python", "C++", "TypeScript", "PostgreSQL"]
-        self.specialization = "Low-Latency Execution & HFT Architecture"
-        self.current_focus = "Machine Learning for Financial Microstructure"
+I'm a **B.Tech Electronics and Communications Engineering** student from NIT Meghalaya with a passion for building scalable systems at the intersection of hardware and software. Currently focused on embedded systems design, high-frequency trading infrastructure, and full-stack development.
 
-    def deploy(self):
-        return "Building scalable FinTech solutions with precision."
+### 🔧 Current Focus
+- **Advanced HFT Execution Engines** - Low-latency algorithmic trading systems
+- **Embedded System Design** - ESP32, SIM7600 modules for IoT applications  
+- **Quantitative Finance** - Signal processing, backtesting, and alpha generation
+- **Full-Stack Development** - React, TypeScript, PostgreSQL, and cloud deployment
 
-print(AerioJobin().deploy())
-📊 Performance Dashboard
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🔍 Engineering Mission</h3>
-<ul>
-<li>🚀 <b>Active Build:</b> Advanced HFT Execution Engines.</li>
-<li>🎯 <b>Strategic Focus:</b> System Design & Scalability.</li>
-<li>🧠 <b>Deep Dive:</b> Quantitative Finance & Risk Models.</li>
-<li>🤝 <b>Collaboration:</b> Open to FinTech & Quant Research.</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3>💹 Trading Terminal</h3>
-<ul>
-<li>✅ <b>Execution:</b> High-Frequency Algorithmic Trading.</li>
-<li>✅ <b>Analysis:</b> Signal Processing with NumPy/Pandas.</li>
-<li>✅ <b>Automation:</b> AI-Driven GST Compliance.</li>
-<li>✅ <b>Optimization:</b> Backtesting & Alpha Generation.</li>
-</ul>
-</td>
-</tr>
-</table>
+---
 
-💻 Tech Arsenal
-Languages & Core
-FinTech & Data Science
-Frontend & UI
-📈 Activity Metrics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AerioJobin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAerioJobin%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="180" />
-</div>
+## 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AerioJobin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF6B00?style=flat-square)
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AerioJobin&theme=tokyonight&hide_border=true" width="100%" />
-</div>
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-🏆 Project Showcase
-📊 GST Automator Pro
-Full-Stack Enterprise Solution
-An AI-powered ecosystem for automating GST accounting and compliance. Built for high-stakes business environments using React, Supabase, and custom backend automation.
+---
 
-🏦 JP Morgan SWE Program
-Financial Data Infrastructure
+## 🏆 Featured Projects
+
+### 📊 **GST Automator Pro** - Full-Stack Enterprise Solution
+AI-powered ecosystem for automating GST accounting and compliance. Built with React, Supabase, and custom backend automation for high-stakes business environments.
+- **Tech**: React, Supabase, JavaScript, PostgreSQL
+- **Impact**: Enterprise-grade automation for GST compliance
+
+### 🏦 **JP Morgan SWE Program** - Financial Data Infrastructure
 Implemented real-time data feeds and interactive visualizations using the Perspective framework to monitor asset price fluctuations and correlations.
+- **Tech**: JavaScript, Perspective Framework, Data Visualization
+- **Focus**: Real-time financial data processing
+
+### 🔌 **Embedded IoT Systems** - ESP32 & SIM7600
+Designed and deployed IoT solutions with advanced communication modules for sensor data collection and cloud synchronization.
+- **Tech**: C, ESP32, SIM7600, MQTT
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AerioJobin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AerioJobin&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+</div>
 
-<br />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AerioJobin&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</div>
 
-<sub>Let's innovate at the speed of the market.</sub>
-<br />
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00b4d8%26height%3D100%26section%3Dfooter" width="100%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AerioJobin&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats"/>
+</div>
 
+---
+
+## 🎯 What I'm Learning
+
+- Advanced VLSI design and RTL verification
+- Biochemical sensor design and COMSOL simulation
+- Wireless communication channel analysis
+- Ethical hacking and cybersecurity
+- Data analytics for sports betting strategies
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+- **Fintech & Quantitative Finance** projects
+- **Embedded Systems** development
+- **Web Development** and full-stack applications
+- **Open Source** contributions
+
+Feel free to reach out at **aeriojobin.business@gmail.com**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Quote"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%" />
 </div>
